@@ -12,3 +12,16 @@ const nextConfig = {
 };
 
 export default nextConfig;
+
+// module.exports = {
+//   images: {
+//     remotePatterns: [
+//       {
+//         protocol: 'https',
+//         hostname: 'example.com',
+//         port: '', // leave blank unless you're using a specific port
+//         pathname: '/**', // allow all paths
+//       },
+//     ],
+//   },
+// };
